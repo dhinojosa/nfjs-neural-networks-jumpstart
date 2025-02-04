@@ -1,14 +1,10 @@
 # Machine Learning Data Pipelines
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/github.com/dhinojosa/machine-learning-data-pipelines)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/github.com/dhinojosa/nfjs-neural-networks-jumpstart)
 
 ## What is it?
 
-This repository is for Daniel Hinojosa's on how to run 
-real-time machine learning processes using a variety of technologies
-
-* Kafka and Kafka Streaming
-* TensorFlow and TensorFlow Serving
+This repository is for Daniel Hinojosa's on neural networks basics
 
 Slides are included in this repository
 
